@@ -1,0 +1,38 @@
+baseurl                  = "https://urzadao.com"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Urza DAO"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+publishDir               = "docs"
+googleAnalytics          = "UA-170601349-1"                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "A for-profit DAO initially focused on staking and liquidity mining opportunities."
+
+# Metadata for Open Graph and Twitter
+    description          = "A for-profit DAO initially focused on staking and liquidity mining opportunities."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Urza DAO"
+    # rss                = ""
+
+[[params.mainMenu]]
+    link = "https://docs.google.com/document/d/1dLbYj4gAdt76IriAEAn_LS0wwYMiHNVZKOFGZm7NuSU/edit?usp=sharing"
+    text = "welcome to urza"
+
+[[params.mainMenu]]
+    link = "https://daohaus.club/dao/v2/0x7ae4bc22d038479c8ad21616450cd5e35d3f03cc"
+    text = "daohaus"
+
+[[params.mainMenu]]
+    link = "https://pokemol.com/dao/0x7ae4bc22d038479c8ad21616450cd5e35d3f03cc"
+    text = "pokemol"
+
+[imaging]
+    quality = 75
