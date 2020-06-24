@@ -18,7 +18,7 @@ googleAnalytics          = "UA-170601349-1"                               # Trac
 
 # Metadata for Open Graph and Twitter
     description          = "A for-profit DAO initially focused on staking and liquidity mining opportunities."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = [""]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Urza DAO"
     # rss                = ""
 
