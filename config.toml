@@ -23,7 +23,7 @@ googleAnalytics          = "UA-170601349-1"                               # Trac
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "https://docs.google.com/document/d/1dLbYj4gAdt76IriAEAn_LS0wwYMiHNVZKOFGZm7NuSU/edit?usp=sharing"
+    link = "https://docs.google.com/document/d/e/2PACX-1vSvSg18vft_bXXYCzRNyXo86eXP5D3tIeNIoQHnH9rosSipMDPigWLuab3_ptwBOZUFWg-MbjJkFeuC/pub"
     text = "welcome to urza"
 
 [[params.mainMenu]]
